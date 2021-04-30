@@ -1,11 +1,7 @@
 {
-    "name": "colorthief",
+    "name": "colorthief_dev123",
     "version": "2.3.2",
-    "author": {
-        "name": "Lokesh Dhakar",
-        "email": "lokesh.dhakar@gmail.com",
-        "url": "http://lokeshdhakar.com/"
-    },
+    "author": "",
     "description": "Get the dominant color or color palette from an image.",
     "keywords": [
         "color",
